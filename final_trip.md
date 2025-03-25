@@ -53,6 +53,7 @@ Viru viru BOL - Lisbon
 ###### Snacks
 
 - Rebuçados de Coca
+- Lucuma (fruit)
 - Peruvian Chocolate
 - Tamales
 - Humitas
@@ -67,115 +68,40 @@ Viru viru BOL - Lisbon
 - Ponchos
 - Beanie
 
-## Route 1:
-
 ### Lima
-
-Look for airbnb in Barranco or Miraflores.
-
-Restaurants: 
-- Tío Mario for the anticuchos
-- Canta Rana and Punto Azul (San Martin) for ceviche and other seafood dishes
-- Chifa Hou Wha for our very popular Chinese-Peruvian fusion
-- Vlady for pastries.
-
-
-Day 1:
-- Take a walk around Plaza Mayor and Government Palace.
-- Visit Barrranco, and enjoy the street art and galleries
-
-Day 2:
-- Visit Larco Museum which showcases pre-Columbian art and artifacts
-- Explore Parque Kennedy and check out Huaca Pucllana, a pyramid in the middle of the city
-- take a walk along Malecón de Miraflores
-
-Day 3:
-- Flight to Cusco in the morning
-- Acclimatization day, stroll through Plaza de Armas
-- Explore Qorikancha and Sacsayhuaman ruins nearby
-
-### Cusco
-
-Day 3:
-- Acclimatization day (elevation of 3.399m), stroll through Plaza de Armas
-- Explore Qorikancha and Sacsayhuaman inside the city
-
-###### Sacred Valley
-
-~1h:30 bus/car from Cusco
-
-Day 4:
-- Visit Pisac for its colorful market and ancient terraces
-- Explore Ollantaymbo, a well perserved Inca town
-- Head back to Cusco
-
-Day 5:
-- Visit Chinchero, a traditional village known for weaving.
-- Explore the Moray terraces (ancient agricultural experimentation site) and Maras Salt Mines.
-
-Day 6:
-- Take a scenic train ride to Aguas Calientes, the gateway to Machu Picchu, and spend the night there.
-
-Day 7: 
-- Visit Machu Picchu early in the morning.
-- Explore the ancient ruins of Machu Picchu, hike to the Sun Gate or, if you're up for it, hike Huayna Picchu (the iconic peak above Machu Picchu).
-- Return to Cusco by train or bus.
-
-### Northern Peru
-
-Day 8: 
-- Travel to Arequipa
-- Visit the Santa Catalina Monastery
-- Explore Plaza de Armas and the Arequipa Cathedral
-
-Day 9:
-- Full day exploring Colca Canyon (about 4 hours from Arequipa).
-- Early morning drive to Colca Canyon, one of the deepest canyons in the world.
-- Visit Cruz del Condor viewpoint to see the Andean condors in flight.
-
-Day 10:
-- Return to Arequipa
-- Visit the Museo Santuarios Andinos
-
-Day 11: 
-- Travel to Puno (about 6-7 hours by bus or flight).
-- Visit Plaza de Armas and explore the colonial architecture.
-- Visit Yavari, an old steamship on the lake.
-
-Day 12: 
-- Full day excursion to Lake Titicaca.
-- Visit the Uros floating islands made of reeds, and learn about the indigenous people’s lifestyle.
-- Continue to Taquile Island, known for its traditional culture and textiles. Enjoy a nice walk around the island and enjoy local food.
-
-Day 13: 
-- Explore the Sillustani burial towers, ancient stone structures used by the Colla people before the Inca.
-
-Day 14:
-- Get a bus(14h)/flight(6h) straight to La Paz
-
-## ----------------------------------------------------------------------
-## Route 2:
-## ----------------------------------------------------------------------
-
-### Lima
-
-Where to Stay:
-
-- [apartment1](https://www.airbnb.pt/rooms/12806157?adults=1&check_in=2025-04-09&check_out=2025-04-11&location=Lima%2C%20Peru&search_mode=regular_search&source_impression_id=p3_1742150825_P3S05O3jV72vfqCX&previous_page_section_name=1001&federated_search_id=d059e37f-ab85-408a-b584-3c85607f9f75)
-- [apartment2](https://www.airbnb.pt/rooms/820412528216051946?adults=1&check_in=2025-04-09&check_out=2025-04-11&search_mode=regular_search&source_impression_id=p3_1742150451_P3a_9lNHn3pxqJKz&previous_page_section_name=1000&federated_search_id=67258525-4469-4778-bbf7-355d3202b247)
-- [apartment3](https://www.airbnb.pt/rooms/38884127?adults=1&check_in=2025-04-09&check_out=2025-04-11&location=Lima%2C%20Peru&search_mode=regular_search&source_impression_id=p3_1742150957_P37wSVKohnqxl-Se&previous_page_section_name=1001&federated_search_id=0d1afedf-cd11-4418-9568-6ab7383261fb)
-- [apartment4](https://www.airbnb.pt/rooms/14686724?adults=1&check_in=2025-04-09&check_out=2025-04-11&location=Lima%2C%20Peru&search_mode=regular_search&source_impression_id=p3_1742151024_P3ha7MP3mPT0cNd0&previous_page_section_name=1001&federated_search_id=0d1afedf-cd11-4418-9568-6ab7383261fb)
-
-
 
 Day 1 (9 April) :
+6h-8h:
+Arrive at Airport, catch the QuickLlama Airport Shuttle to Miraflores and find the airbnb, and rest
+
+12h:
+Lunch in Miraflores restaurant Al Toqke Pez
+
+13h:
+Go to Museo de Huaca Pucllana
+
+15/16/etc:
+Walk along the malecón or take a walk alongside Barranco galleries
+
+19h:
+Dine in Punto Azul
+
+
 - Take a walk around Plaza Mayor and Government Palace.
 - Visit Barrranco, and enjoy the street art and galleries
 
 Day 2 (10 April):
-- Visit Larco Museum which showcases pre-Columbian art and artifacts
-- Explore Parque Kennedy and check out Huaca Pucllana, a pyramid in the middle of the city
-- take a walk along Malecón de Miraflores
+10h:
+Visit El Cacoatal
+
+13h:
+Lunch at Isolina or backup: EL HUARIQUE DE LOS CUCHITOS
+
+15h:
+Take an uber to Museo Larco
+
+19h:
+Dine at Osaka Pardo y Aliaga (might need reservation, check)
 
 ### Arequipa
 
