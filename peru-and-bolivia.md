@@ -73,6 +73,9 @@ Viru viru BOL - Lisbon
 Day 1 (9 April):----------------------------------------------------------
 6h-8h:
 Arrive at Airport, catch the QuickLlama Airport Shuttle to Miraflores and find the airbnb, and rest
+https://www.quickllama.com/en/timetable/
+Should be around 20 soles, and there is 1 at 6:20 and another at 7:30.
+We can also try an Uber or Taxi but careful to not pay more than 20 soles (saw a video where a guy payed 70 soles).
 
 12h:
 Lunch in Miraflores restaurant Al Toqke Pez
