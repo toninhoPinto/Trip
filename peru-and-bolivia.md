@@ -70,7 +70,7 @@ Viru viru BOL - Lisbon
 
 ### Lima
 
-Day 1 (9 April) :
+Day 1 (9 April):----------------------------------------------------------
 6h-8h:
 Arrive at Airport, catch the QuickLlama Airport Shuttle to Miraflores and find the airbnb, and rest
 
@@ -86,7 +86,7 @@ Walk along the malecón or take a walk alongside Barranco galleries
 19h:
 Dine in Punto Azul
 
-Day 2 (10 April):
+Day 2 (10 April):----------------------------------------------------------
 10h:
 Visit El Cacoatal
 
@@ -99,9 +99,13 @@ Take an uber to Museo Larco
 19h:
 Dine at Osaka Pardo y Aliaga (might need reservation, check)
 
+Day 3 (11 April):----------------------------------------------------------
+
+
+
 ### Arequipa
 
-Day 3 (11 April):
+Day 3 (11 April):----------------------------------------------------------
 1h Flight to Arequipa
 
 12h:
@@ -115,14 +119,28 @@ Lunch in Mumi restaurante in Plaza de armas (reserved)
 Check if can make a reservation at Chaqchao chocolate making nearby for the day after
 Museo Santuarios Andinos (closes at 18h) or explore the city
 
-Day 4 (12 April) Saturday:
+20h:
+Dinner at ZigZag in Plaza de Armas
+
+Get a good night sleep
+
+Day 4 (12 April) Saturday:----------------------------------------------------------
 
 11h:
-Check the San Camilo Market
+If we managed to make a reservation
+Activity Like Chaqchao Chocolate making
 
-- Activity Like Chaqchao Chocolate making
-or
-- Rafting
+In between activity:
+Check the San Camilo Market
+If hungry there should be food in the secnd floor
+
+14h:
+
+
+15h:
+Go to Mundo Alpaca (closes at 18h)
+
+
 
 ### Cusco
 
@@ -179,13 +197,10 @@ Day 15 (23 April):
 Day 16 (24 April):
 - Go Back to Cusco to acclimatize again for 1 day/night
 
-
-# =====================================
-# =====================================
+Day 17 (35 April):
+- Get a flight to La Paz
 
 # Bolivia
-
-## Route 1:
 
 ### La Paz
 
