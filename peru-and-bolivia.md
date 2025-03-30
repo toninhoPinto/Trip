@@ -94,13 +94,15 @@ Day 2 (10 April):----------------------------------------------------------
 Visit El Cacoatal
 
 13h:
-Lunch at Isolina or backup: EL HUARIQUE DE LOS CUCHITOS
+Reservation in Merito
+https://restaurantes.mesa247.pe/reserva/eaf15cb6f534b397ec31617ec1dc65db/unete-a-la-reserva
 
 15h:
 Take an uber to Museo Larco
 
 19h:
-Dine at Osaka Pardo y Aliaga (might need reservation, check)
+Dine at Osaka Pardo y Aliaga
+Have reservation, had to book for sushi counter
 
 Day 3 (11 April):----------------------------------------------------------
 
