@@ -86,10 +86,6 @@ Walk along the malecón or take a walk alongside Barranco galleries
 19h:
 Dine in Punto Azul
 
-
-- Take a walk around Plaza Mayor and Government Palace.
-- Visit Barrranco, and enjoy the street art and galleries
-
 Day 2 (10 April):
 10h:
 Visit El Cacoatal
@@ -105,16 +101,25 @@ Dine at Osaka Pardo y Aliaga (might need reservation, check)
 
 ### Arequipa
 
-Where to Stay:
-
-- [apartment1](https://www.airbnb.pt/rooms/1256196097839382237?adults=1&check_in=2025-04-11&check_out=2025-04-14&search_mode=regular_search&source_impression_id=p3_1742151103_P3qF5IPI-2o-i973&previous_page_section_name=1000&federated_search_id=f72fa0cc-fd53-4ed9-a888-72f0e04b5b2c)
-
 Day 3 (11 April):
-- 1h Flight to Arequipa
-- Explore the City
-- Museo Santuarios Andinos: Don’t miss the Juanita Mummy exhibit, which showcases an Inca mummy found in the mountains.
+1h Flight to Arequipa
 
-Day 4 (12 April):
+12h:
+Arrive at Arequipa airport
+Get an uber/taxi to Plaza de Armas/straight to Hotel la Casa de Irma
+
+14h:
+Lunch in Mumi restaurante in Plaza de armas (reserved)
+
+15h:
+Check if can make a reservation at Chaqchao chocolate making nearby for the day after
+Museo Santuarios Andinos (closes at 18h) or explore the city
+
+Day 4 (12 April) Saturday:
+
+11h:
+Check the San Camilo Market
+
 - Activity Like Chaqchao Chocolate making
 or
 - Rafting
