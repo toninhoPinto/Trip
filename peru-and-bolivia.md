@@ -107,6 +107,8 @@ Dine at Osaka Pardo y Aliaga (might need reservation, check)
 
 Where to Stay:
 
+- [apartment1](https://www.airbnb.pt/rooms/1256196097839382237?adults=1&check_in=2025-04-11&check_out=2025-04-14&search_mode=regular_search&source_impression_id=p3_1742151103_P3qF5IPI-2o-i973&previous_page_section_name=1000&federated_search_id=f72fa0cc-fd53-4ed9-a888-72f0e04b5b2c)
+
 Day 3 (11 April):
 - 1h Flight to Arequipa
 - Explore the City
@@ -133,9 +135,6 @@ Day 7 (15 April):
 - Extra exploration of Cusco (need to investigate)
 
 ### Machu Picchu
-
-Check ticket purchase rate to decide at what hours do we need to go get tickets
-https://tuboleto.cultura.pe/disponibilidad/llaqta_machupicchu
 
 day 8 (16 April):
 - Full day Hike to Laguna Humantay
