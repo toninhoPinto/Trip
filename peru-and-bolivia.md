@@ -110,6 +110,9 @@ Day 3 (11 April):----------------------------------------------------------
 
 ### Arequipa
 
+Start checking at what hours do machu picchu tickets end
+https://tuboleto.cultura.pe/disponibilidad/llaqta_machupicchu
+
 Day 3 (11 April):----------------------------------------------------------
 1h Flight to Arequipa
 
@@ -162,12 +165,16 @@ Day 6 (14 April):
 Day 7 (15 April):
 - Extra exploration of Cusco (need to investigate)
 
-### Machu Picchu
-
 day 8 (16 April):
 - Full day Hike to Laguna Humantay
 
+### Machu Picchu
+
+Start checking at what hours do machu picchu tickets end
+https://tuboleto.cultura.pe/disponibilidad/llaqta_machupicchu
+
 Day 9 (17 April):
+- Try and do a tour where you end up in Ollantaytambo
 - Full-Day Sacred Valley Tour: Visit the Pisac ruins and the Pisac market, then explore Ollantaytambo, another impressive Incan archaeological site.
 
 Day 10 (18 April):
@@ -183,9 +190,6 @@ Day 11 (19 April):
 ### Back To Cusco
 
 Day 12 (20 April):
-- Moray & Maras
-Day Trip to Moray & Maras: Visit the Moray agricultural terraces and the salt mines of Maras, both located just outside of Cusco. These are fascinating Incan sites and make for a great excursion.
-Evening: Return to Cusco for a farewell dinner.
 
 ### Manu National park
 
