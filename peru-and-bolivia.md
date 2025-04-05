@@ -70,7 +70,7 @@ Viru viru BOL - Lisbon
 
 ### Lima
 
-Day 1 (9 April):----------------------------------------------------------
+Wed Day 1 (9 April):----------------------------------------------------------
 6h-8h:
 Arrive at Airport, catch the QuickLlama Airport Shuttle to Miraflores and find the airbnb, and rest
 https://www.quickllama.com/en/timetable/
@@ -89,7 +89,7 @@ Walk along the malecón or take a walk alongside Barranco galleries
 19h:
 Dine in Punto Azul
 
-Day 2 (10 April):----------------------------------------------------------
+Thu Day 2 (10 April):----------------------------------------------------------
 10h:
 Visit El Cacoatal
 
@@ -104,16 +104,16 @@ Take an uber to Museo Larco
 Dine at Osaka Pardo y Aliaga
 Have reservation, had to book for sushi counter
 
-Day 3 (11 April):----------------------------------------------------------
+Fri Day 3 (11 April):----------------------------------------------------------
 
-
+10: Take flight
 
 ### Arequipa
 
 Start checking at what hours do machu picchu tickets end
 https://tuboleto.cultura.pe/disponibilidad/llaqta_machupicchu
 
-Day 3 (11 April):----------------------------------------------------------
+Fri Day 3 (11 April):----------------------------------------------------------
 1h Flight to Arequipa
 
 12h:
@@ -132,7 +132,7 @@ Dinner at ZigZag in Plaza de Armas
 
 Get a good night sleep
 
-Day 4 (12 April) Saturday:----------------------------------------------------------
+Sat Day 4 (12 April):----------------------------------------------------------
 
 11h:
 If we managed to make a reservation
@@ -152,20 +152,20 @@ Go to Mundo Alpaca (closes at 18h)
 
 ### Cusco
 
-Day 5 (13 April):
+Sun Day 5 (13 April):
 - Fly to Cusco (1-hour flight from Arequipa). 
 - Take it easy today to adjust to the altitude. Drink plenty of coca tea and avoid strenuous activities.
 - Stroll around Plaza de Armas and enjoy a quiet evening in the historic heart of Cusco.
 
-Day 6 (14 April):
+Mon Day 6 (14 April):
 - Sacsayhuamán: Visit this ancient Incan fortress overlooking Cusco. It offers fantastic views and insight into Inca military architecture.
 - Qorikancha (Temple of the Sun): Explore this important archaeological site.
 - Cusco Cathedral & Plaza de Armas: Walk around the Plaza and visit the Cusco Cathedral. The colonial-era buildings and surrounding shops are great for exploring.
 
-Day 7 (15 April):
+Tue Day 7 (15 April):
 - Extra exploration of Cusco (need to investigate)
 
-day 8 (16 April):
+Wed day 8 (16 April):
 - Full day Hike to Laguna Humantay
 
 ### Machu Picchu
@@ -173,16 +173,16 @@ day 8 (16 April):
 Start checking at what hours do machu picchu tickets end
 https://tuboleto.cultura.pe/disponibilidad/llaqta_machupicchu
 
-Day 9 (17 April):
+Thur Day 9 (17 April):
 - Try and do a tour where you end up in Ollantaytambo
 - Full-Day Sacred Valley Tour: Visit the Pisac ruins and the Pisac market, then explore Ollantaytambo, another impressive Incan archaeological site.
 
-Day 10 (18 April):
+Fri Day 10 (18 April):
 - Travel to Aguas Calientes
 Train to Aguas Calientes: Take the scenic train ride from Cusco to Aguas Calientes, which takes about 3.5 to 4 hours.
 Explore Aguas Calientes: Walk around the small town and enjoy the hot springs.
 
-Day 11 (19 April):
+Sat Day 11 (19 April):
 - Early Morning Visit to Machu Picchu: Arrive early at Machu Picchu to avoid the crowds. Take a guided tour to learn about the history and significance of the site.
 - Optional Hike: If you're up for it, consider hiking to Huayna Picchu or Machu Picchu Mountain for even more spectacular views.
 - Afternoon: After visiting the site, return to Aguas Calientes and take the train back to Cusco.
