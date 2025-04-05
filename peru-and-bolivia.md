@@ -70,6 +70,17 @@ Viru viru BOL - Lisbon
 
 ### Lima
 
+##### Stay
+
+Airbnb
+Av. Jorge Chávez 302. Miraflores. Apartment 406.
+Parking 83
+
+The reception counter is open. Show the ID and indicate that you are going to 406, ask for a pouch with the apartment key.
+Wifi
+Daniel/carioca1
+
+
 Wed Day 1 (9 April):----------------------------------------------------------
 6h-8h:
 Arrive at Airport, catch the QuickLlama Airport Shuttle to Miraflores and find the airbnb, and rest
@@ -113,6 +124,10 @@ Fri Day 3 (11 April):----------------------------------------------------------
 Start checking at what hours do machu picchu tickets end
 https://tuboleto.cultura.pe/disponibilidad/llaqta_machupicchu
 
+##### Stay
+Hotel La Casa de Irma
+
+
 Fri Day 3 (11 April):----------------------------------------------------------
 1h Flight to Arequipa
 
@@ -148,6 +163,7 @@ If hungry there should be food in the secnd floor
 15h:
 Go to Mundo Alpaca (closes at 18h)
 
+Sun Day 5 (13 April):
 
 
 ### Cusco
@@ -163,10 +179,16 @@ Mon Day 6 (14 April):
 - Cusco Cathedral & Plaza de Armas: Walk around the Plaza and visit the Cusco Cathedral. The colonial-era buildings and surrounding shops are great for exploring.
 
 Tue Day 7 (15 April):
-- Extra exploration of Cusco (need to investigate)
+If good Weather and feeling good
+- Full day Hike to Laguna Humantay
 
 Wed day 8 (16 April):
-- Full day Hike to Laguna Humantay
+
+
+Bad weather alternatives:
+- Cooking classes:
+    - https://www.getyourguide.com/cusco-l359/cooking-classes-tc107/
+
 
 ### Machu Picchu
 
@@ -184,7 +206,6 @@ Explore Aguas Calientes: Walk around the small town and enjoy the hot springs.
 
 Sat Day 11 (19 April):
 - Early Morning Visit to Machu Picchu: Arrive early at Machu Picchu to avoid the crowds. Take a guided tour to learn about the history and significance of the site.
-- Optional Hike: If you're up for it, consider hiking to Huayna Picchu or Machu Picchu Mountain for even more spectacular views.
 - Afternoon: After visiting the site, return to Aguas Calientes and take the train back to Cusco.
 
 ### Back To Cusco
@@ -206,7 +227,7 @@ Day 15 (23 April):
 Day 16 (24 April):
 - Go Back to Cusco to acclimatize again for 1 day/night
 
-Day 17 (35 April):
+Day 17 (25 April):
 - Get a flight to La Paz
 
 # Bolivia
@@ -215,6 +236,7 @@ Day 17 (35 April):
 
 Stay a 4 days exploring
 
+26,27,28,29
 In the city:
 - Witches Market
 - Plaza Murillo
@@ -230,12 +252,12 @@ Day trips:
 - Hiking in Pampalarama
 
 ### Travelling to Uyuni
-
+30
 Flight 1h
 Bus 7/9h 
 
 ### Uyuni the salt plains
-
+1,2
 It seems that Uyuni itself isn't very interesting
 
 2 days in Uyuni
@@ -245,32 +267,8 @@ It seems that Uyuni itself isn't very interesting
 
 - Half day Eduardo Avaroa National Park
     - Has beautiful lakes, but might not be as stunning to to still some extra water from rainy season
+3
+Day travel to Cochabamba
 
-### Travelling to Rurrenabaque
-
-Both for buses and flights, there is no direct 
-so for both we need to return to La Paz
-
-From La Paz to Rurrenabaque by plane -> 1h
-From La Paz to Rurrenabaque by bus --> 20h+
-
-### Rurrenabaque the edge of the Amazon Rainforest
-
-4 to 5 days
-
-3 day Amazon Jungle tour
-    - wildlife watching
-    - trekking
-    - look for night safaris
-    - boat tours
-
-1 day Madidi National Park if still having energy
-
-Flight back to La Paz
-
-
-
-## Others
-
-Chalalan Ecolodge in Rurrenabaque
-
+8 May
+flight back
