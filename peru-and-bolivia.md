@@ -83,6 +83,7 @@ Daniel/carioca1
 
 
 Wed Day 1 (9 April):----------------------------------------------------------
+
 6h-8h:
 Arrive at Airport, catch the QuickLlama Airport Shuttle to Miraflores and find the airbnb, and rest
 https://www.quickllama.com/en/timetable/
@@ -102,6 +103,7 @@ Walk along the malecón or take a walk alongside Barranco galleries
 Dine in Punto Azul
 
 Thu Day 2 (10 April):----------------------------------------------------------
+
 10h:
 Visit El Cacoatal
 
@@ -130,6 +132,7 @@ Hotel La Casa de Irma
 
 
 Fri Day 3 (11 April):----------------------------------------------------------
+
 1h Flight to Arequipa
 
 12h:
