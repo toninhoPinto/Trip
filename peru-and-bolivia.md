@@ -13,9 +13,10 @@ Viru viru BOL - Lisbon
 
 ### List to buy
 
-- Powerbank
+- Powerbank - done
 - Hydration solution
 - Mosquito Repelant
+- insurance 
 
 ### Clothes
 
