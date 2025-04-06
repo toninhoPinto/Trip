@@ -78,8 +78,6 @@ Av. Jorge Chávez 302. Miraflores. Apartment 406.
 Parking 83
 
 The reception counter is open. Show the ID and indicate that you are going to 406, ask for a pouch with the apartment key.
-Wifi
-Daniel/carioca1
 
 
 Wed Day 1 (9 April):----------------------------------------------------------
