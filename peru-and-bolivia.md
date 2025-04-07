@@ -140,10 +140,9 @@ Arrive at Arequipa airport
 Get an uber/taxi to Plaza de Armas/straight to Hotel la Casa de Irma
 
 14h:
-Lunch in Mumi restaurante in Plaza de armas (reserved)
+Lunch in Mumi restaurante in Plaza de armas (reserved) NEED TO CHANGE
 
 15h:
-Check if can make a reservation at Chaqchao chocolate making nearby for the day after
 Museo Santuarios Andinos (closes at 18h) or explore the city
 
 20h:
@@ -154,15 +153,12 @@ Get a good night sleep
 Sat Day 4 (12 April):----------------------------------------------------------
 
 11h:
-If we managed to make a reservation
-Activity Like Chaqchao Chocolate making
+Activity Chaqchao Chocolate making
+Duration: 2h 15m
 
-In between activity:
+After workshop ~13:30h:
 Check the San Camilo Market
 If hungry there should be food in the secnd floor
-
-14h:
-
 
 15h:
 Go to Mundo Alpaca (closes at 18h)
