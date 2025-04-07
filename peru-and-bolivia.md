@@ -122,6 +122,8 @@ Fri Day 3 (11 April):----------------------------------------------------------
 
 ### Arequipa
 
+With this in mind, you can expect to pay about €6 (PEN 25) to get from Arequipa Airport to the city centre. A taxi from the airport to a destination in Cayma will likely cost €2.40 (PEN 10) because it's much closer. Haggling taxi fares can be a little stressful for tourists new to Arequipa.
+
 Start checking at what hours do machu picchu tickets end
 https://tuboleto.cultura.pe/disponibilidad/llaqta_machupicchu
 
